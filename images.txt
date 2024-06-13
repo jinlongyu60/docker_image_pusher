@@ -1,2 +1,3 @@
 #redis
 redis:latest
+idootop/mi-gpt:latest
